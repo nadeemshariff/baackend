@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "nadeem"
+  ],
+  "author": "Nadeem Shariff",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "evn": "^0.0.1",
+    "express": "^4.19.1"
+  }
+}

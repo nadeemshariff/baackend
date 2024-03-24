@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <h1>Full stack</h1>
+      <h1>Full stack || Done ||</h1>
       <p>Jokes: {jokes.length}</p>
 
       {
